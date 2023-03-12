@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="/l*s-1GYWHyNmg=]b8=I" x="-210" y="2"><statement name="HANDLER"><block type="controls_if" id="yp*+(qkvy{:yP`[w@3Ud"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="@l[mI%E,O.%K_roO,;e]"><field name="NAME">Button.A</field></block></value><statement name="DO0"><block type="device_show_leds" id="Br;qoR^`KIj`1r7E`fn="><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_clear_display" id="3I#E+EQvtMAr4^7pPq0r"><next><block type="device_pause" id="I3LQH~XtSC+hp=T.{{|X"><value name="pause"><shadow type="timePicker" id="E_uvw5H.k;=zR/U-)Zf~"><field name="ms">200</field></shadow></value></block></next></block></next></block></statement></block></statement></block><block type="device_forever" id="S]0f60/7as+?B}O7x4|B" x="0" y="0"><statement name="HANDLER"><block type="controls_if" id="8sf-`z+R7SJ~iLlH2Eqn"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="u$U8a4xKWKdt].V7cDNy"><field name="NAME">Button.B</field></block></value><statement name="DO0"><block type="device_show_leds" id="Cul8A;sdPy7g-)!m1(iO"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field></block></statement><next><block type="device_clear_display" id=";%g?eNvo{|Et]?cnjoQj"><next><block type="device_pause" id="w?bkML*#eeQXdZM`z,|R"><value name="pause"><shadow type="timePicker" id="*!W90Jvzn_,fu=_e^?Bn"><field name="ms">200</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="d_jO]]lbysB,Cz@Z?HO!" x="223" y="0"><statement name="HANDLER"><block type="controls_if" id=";mwtZ2?%0(_QeK#_EY8j"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="7k{nkD{.eh9uPeL^LYEe"><field name="NAME">Button.AB</field></block></value><statement name="DO0"><block type="device_show_leds" id="0%IAExir~Lt#C-1Dj^Z3"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # # # # # 
+        . # . # . 
+        . . # . .
+        `</field></block></statement><next><block type="device_clear_display" id="(R9ihr,NyFyf8Z^-8@2S"><next><block type="device_pause" id="y9opKj-d,TQ)V,YZctoQ"><value name="pause"><shadow type="timePicker" id="E--t-[|=u9^Dr2NY)K{i"><field name="ms">200</field></shadow></value></block></next></block></next></block></statement></block></xml>
